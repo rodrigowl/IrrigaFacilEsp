@@ -1,1 +1,6 @@
-# Documento de Requisito
+Requisito 1: Tela inicial ações do aplicativo
+ o aplicativo irá mostrar uma tela onde se possa administrar um sensor de temperatura e umidade do ambiente e um sensor de umidade do solo.
+Requisito 2: Ação e reação da aplicação
+ o aplicativo terá a função de enviar as informação colhidas do solo para á placa, quando a umidade estiver com nível baixo, a bomba será ligada automaticamente.
+Requisito 3:  Aplicativo conectando com o arduino
+A tela irá conter um botão que aciona a bomba de forma manual, sendo assim enviando as informações para a placa e acionando a bomba.
